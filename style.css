@@ -138,6 +138,7 @@ ul li span:hover {
     .todo .row {
         flex-direction: column;
         background: white;
+        padding: 2px;
     }
 
     .todo .row input {
